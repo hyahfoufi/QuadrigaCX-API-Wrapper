@@ -6,11 +6,11 @@ First, include the classes in your project.
 
 #### Public:
 
-`require 'QuadrigaPublicAPI.php';`
+`require("QuadrigaPublicAPI.php");`
 
 #### Private:
 
-`require 'QuadrigaPrivateAPI.php';`
+`require("QuadrigaPrivateAPI.php");;`
 
 Next, create a new instance of the class you want to use:
 
